@@ -1,0 +1,71 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<style>
+    p{
+        margin: 10px 0;
+    }
+</style>
+<div class="wrap" style="width: 100%; max-width: 850px; margin: 0 auto; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #000; line-height: 1.2;">
+ <img src="https://toporkov31.ru//include/logo/mail_header_.png" class="header" style="width: 72%; height: auto; margin: auto; display: block">
+	<table width="100%" cellpadding="0" cellspacing="0" style="margin: 15px 0">
+	<tbody>
+	<tr>
+		<td height="34" width="" valign="middle" align="center" style="font-family: Helvetica, Arial, sans-serif;font-size: 14px;color: #000;line-height: 18px;">
+ <a href="http://toporkov31.ru/catalog/" style="text-decoration: none;color: #000;" rel=" noopener noreferrer" target="_blank"> Каталог </a>
+		</td>
+		<td height="34" width="" valign="middle" align="center" style="font-family: Helvetica, Arial, sans-serif;font-size: 14px;color: #000;line-height: 18px;">
+ <a href="http://toporkov31.ru/stock/" style="text-decoration: none;color: #000;" rel=" noopener noreferrer" target="_blank"> Акции </a>
+		</td>
+		<td height="34" width="" valign="middle" align="center" style="font-family: Helvetica, Arial, sans-serif;font-size: 14px;color: #000;line-height: 18px;">
+ <a href="http://toporkov31.ru/personal/" style="text-decoration: none;color: #000;" rel=" noopener noreferrer" target="_blank"> Мой кабинет </a>
+		</td>
+		<td height="34" width="" valign="middle" align="center" style="font-family: Helvetica, Arial, sans-serif;font-size: 14px;color: #000;line-height: 18px;">
+ <a href="http://toporkov31.ru/stores/" style="text-decoration: none;color: #000;" rel=" noopener noreferrer" target="_blank"> Контакты </a>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+	<div class="main" style="margin: 30px 0;">
+		<p>
+ <br>
+		</p>
+		<p>
+ <br>
+		</p>
+		<p>
+ <b>Вас приветствует компания Топорков.</b>
+		</p>
+		<p>
+			 Спасибо за регистрацию в нашем интернет-магазине. Ваша <a style="text-decoration: none" href="https://toporkov31.ru/personal/"><b><span style="color: #e96334;">Учетная запись</span></b></a> активирована. Теперь вы можете совершать заказы в нашем <a style="text-decoration: none" href="https://toporkov31.ru/"><span style="color: #e96334;"><b>Интернет-магазине</b></span></a>.
+		</p>
+ <br>
+		<p>
+			 Если у вас будут вопросы по работе в нашем Интернет-магазине, вы можете поискать ответы на самые частые вопросы в разделе - <a style="text-decoration: none" href="https://toporkov31.ru/about_orders/"><b><span style="color: #e96334;">Вопросы и ответы</span></b></a>. Также, можно обратиться к вашему персональному менеджеру по любому удобному для вас каналу связи (запрос в поддержку через личный кабинет на сайте, телефонный звонок, E-mail, и тд ).
+		</p>
+ <b>Желаем вам приятных и выгодных покупок!<br>
+ </b><br>
+ <br>
+ <b><br>
+ </b><b><br>
+ </b>
+	</div>
+	<div class="footer" style="text-align: center;">
+		<div class="footer_1" style="background-color: #eaf3f5; padding: 10px;">
+			<div style="padding: 10px 20px;">
+				 +7 (4722) 73-28-00
+			</div>
+			<div style="padding: 10px 20px;">
+				 308023, г. Белгород, 5-й Заводской пер., д. 11
+			</div>
+		</div>
+		<div class="footer_2" style="background-color: #f7f7f7; padding: 20px;">
+			 Вы получили это письмо, так как являетесь клиентом нашей компании. Это письмо сформировано автоматически, отвечать на него не требуется.
+		</div>
+	</div>
+</div>
+ <br>
+</body>
+</html>
